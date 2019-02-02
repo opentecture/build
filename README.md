@@ -9,8 +9,12 @@ using 3d printing methods.
 ### Components
 
 * Structural:
-  * Foundation
+  * [Foundation](./components/Foundation Block.stl)
+  * Support Beams:
+    * [Vertical Support Beam](./components/Vertical Support - 2m.stl)
+    * [Vertical Support Junction](./components/Vertical Support Topper.stl)
   * Exterior Walls
+  * [Roof](./components/Roof.stl)
   * Utilities/Systems:
     * Water
     * Electricity
@@ -18,9 +22,14 @@ using 3d printing methods.
     * Plumbing/Sewage
     * Air Conditioning/HVAC
 * Functional:
-  * Interior Walls
-  * Doors
+  * Interior Walls:
+    * [Wall Panel](./components/Wall Panel.stl)
+  * [Doors](./components/Door.stl)
 * Aesthetic:
-  * Decor
+  * Decor:
+    * [Wall Switch](./components/Wall Switch.stl)
   * Finishing:
+    * [Door Handles](./components/Door Handle.stl)
     * Door Knobs
+  * Flooring:
+    * [Floor Tiles](./components/Floor Tiling.stl)
